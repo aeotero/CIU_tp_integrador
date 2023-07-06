@@ -27,12 +27,12 @@ const Header = () => {
                         </div>
                     </div>
                     <div class="col">
-                        <a href="#" class="nav-link text-white">
+                        <a href="https://www.preciooro.com/cotizacion-oro.html" class="nav-link text-white">
                             Valor del oro
                         </a>
                     </div>
                     <div class="col">
-                        <a href="#" class="nav-link text-white">
+                        <a href="https://www.byma.com.ar/" class="nav-link text-white">
                             Bolsa de valores
                         </a>
                     </div>

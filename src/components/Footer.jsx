@@ -10,7 +10,7 @@ const Footer = () => {
         <div class="px-2 py-2 bg-dark text-white fixed-bottom">
             <footer class="container-md d-flex align-items-center ">
                     
-                <div class="text-secondary">© 2022 Agustin Otero </div>
+                <div class="text-secondary">© 2023 Agustin Otero </div>
 
                 <div class="ms-auto p-2">
                     <a href="index.html">
@@ -18,20 +18,20 @@ const Footer = () => {
                             <img src = {house} alt="Home"/>
                         </button>
                     </a>
-                    <a href="#">
+                    <a href="https://www.sicarul.com/">
                         <button type="button" class="btn btn-light-empasis">
                             <img src= {linkedin} alt="Linkedin"/>
                         </button>
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/bluelytics">
                         <button type="button" class="btn btn-light-empasis">
                             <img src= {facebook} alt="Facebook"/>
                         </button>
-                    </a><a href="#">
+                    </a><a href="https://www.twitter.com/bluelytics">
                         <button type="button" class="btn btn-light-empasis">
                             <img src= {twitter} alt="Twitter"/>
                         </button>
-                    </a><a href="#">
+                    </a><a href="https://www.instagram.com/bluelytics_dolar">
                         <button type="button" class="btn btn-light-empasis">
                             <img src= {instagram} alt="Instagram"/>
                         </button>
